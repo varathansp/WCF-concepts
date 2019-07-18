@@ -1,0 +1,11 @@
+C:\Users\vsuyambu\source\repos\DataContract DataMember\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe.config
+C:\Users\vsuyambu\source\repos\DataContract DataMember\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.exe
+C:\Users\vsuyambu\source\repos\DataContract DataMember\EmployeeServiceHost\bin\Debug\EmployeeServiceHost.pdb
+C:\Users\vsuyambu\source\repos\DataContract DataMember\EmployeeServiceHost\bin\Debug\EmployeeService.dll
+C:\Users\vsuyambu\source\repos\DataContract DataMember\EmployeeServiceHost\bin\Debug\EmployeeService.pdb
+C:\Users\vsuyambu\source\repos\DataContract DataMember\EmployeeServiceHost\bin\Debug\EmployeeService.dll.config
+C:\Users\vsuyambu\source\repos\DataContract DataMember\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csprojAssemblyReference.cache
+C:\Users\vsuyambu\source\repos\DataContract DataMember\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\vsuyambu\source\repos\DataContract DataMember\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.csproj.CopyComplete
+C:\Users\vsuyambu\source\repos\DataContract DataMember\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.exe
+C:\Users\vsuyambu\source\repos\DataContract DataMember\EmployeeServiceHost\obj\Debug\EmployeeServiceHost.pdb
