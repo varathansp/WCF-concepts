@@ -1,0 +1,8 @@
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\DuplexMessageExchage\bin\Debug\DuplexMessageExchage.exe.config
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\DuplexMessageExchage\bin\Debug\DuplexMessageExchage.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\DuplexMessageExchage\bin\Debug\DuplexMessageExchage.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\DuplexMessageExchage\bin\Debug\DuplexMessageExchageService.dll
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\DuplexMessageExchage\bin\Debug\DuplexMessageExchageService.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\DuplexMessageExchage\obj\x86\Debug\DuplexHost.csprojResolveAssemblyReference.cache
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\DuplexMessageExchage\obj\x86\Debug\DuplexMessageExchage.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\DuplexMessageExchage\obj\x86\Debug\DuplexMessageExchage.pdb

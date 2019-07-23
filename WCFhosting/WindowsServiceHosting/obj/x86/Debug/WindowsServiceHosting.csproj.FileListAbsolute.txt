@@ -1,0 +1,9 @@
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\WindowsServiceHosting\bin\Debug\WindowsServiceHosting.exe.config
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\WindowsServiceHosting\bin\Debug\WindowsServiceHosting.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\WindowsServiceHosting\bin\Debug\WindowsServiceHosting.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\WindowsServiceHosting\bin\Debug\HelloService.dll
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\WindowsServiceHosting\bin\Debug\HelloService.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\WindowsServiceHosting\obj\x86\Debug\WindowsServiceHosting.ProjectInstaller.resources
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\WindowsServiceHosting\obj\x86\Debug\WindowsServiceHosting.csproj.GenerateResource.Cache
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\WindowsServiceHosting\obj\x86\Debug\WindowsServiceHosting.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\WindowsServiceHosting\obj\x86\Debug\WindowsServiceHosting.pdb

@@ -1,0 +1,8 @@
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\Host\bin\Debug\Host.exe.config
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\Host\bin\Debug\Host.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\Host\bin\Debug\Host.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\Host\bin\Debug\SampleService.dll
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\Host\bin\Debug\SampleService.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\Host\obj\x86\Debug\Host.csprojResolveAssemblyReference.cache
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\Host\obj\x86\Debug\Host.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\Host\obj\x86\Debug\Host.pdb

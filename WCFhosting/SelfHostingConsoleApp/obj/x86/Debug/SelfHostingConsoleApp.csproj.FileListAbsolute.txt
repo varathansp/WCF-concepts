@@ -1,0 +1,8 @@
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\SelfHostingConsoleApp\bin\Debug\SelfHostingConsoleApp.exe.config
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\SelfHostingConsoleApp\bin\Debug\SelfHostingConsoleApp.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\SelfHostingConsoleApp\bin\Debug\SelfHostingConsoleApp.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\SelfHostingConsoleApp\bin\Debug\HelloService.dll
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\SelfHostingConsoleApp\bin\Debug\HelloService.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\SelfHostingConsoleApp\obj\x86\Debug\SelfHostingConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\SelfHostingConsoleApp\obj\x86\Debug\SelfHostingConsoleApp.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFhosting\SelfHostingConsoleApp\obj\x86\Debug\SelfHostingConsoleApp.pdb

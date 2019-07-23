@@ -1,0 +1,5 @@
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\SampleService\bin\Debug\SampleService.dll.config
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\SampleService\bin\Debug\SampleService.dll
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\SampleService\bin\Debug\SampleService.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\SampleService\obj\Debug\SampleService.dll
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\MessageExchangePatterns\SampleService\obj\Debug\SampleService.pdb
