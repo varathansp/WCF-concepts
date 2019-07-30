@@ -1,0 +1,4 @@
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFclients\EmployeeSerClient\bin\EmployeeSerClient.dll
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFclients\EmployeeSerClient\bin\EmployeeSerClient.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFclients\EmployeeSerClient\obj\Debug\EmployeeSerClient.dll
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFclients\EmployeeSerClient\obj\Debug\EmployeeSerClient.pdb

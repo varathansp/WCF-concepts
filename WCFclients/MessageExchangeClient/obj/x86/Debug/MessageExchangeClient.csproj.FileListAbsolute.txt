@@ -1,0 +1,8 @@
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFClients\MessageExchangeClient\bin\Debug\MessageExchangeClient.exe.config
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFClients\MessageExchangeClient\bin\Debug\MessageExchangeClient.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFClients\MessageExchangeClient\bin\Debug\MessageExchangeClient.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFClients\MessageExchangeClient\obj\x86\Debug\MessageExchangeClient.Form1.resources
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFClients\MessageExchangeClient\obj\x86\Debug\MessageExchangeClient.Properties.Resources.resources
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFClients\MessageExchangeClient\obj\x86\Debug\MessageExchangeClient.csproj.GenerateResource.Cache
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFClients\MessageExchangeClient\obj\x86\Debug\MessageExchangeClient.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFClients\MessageExchangeClient\obj\x86\Debug\MessageExchangeClient.pdb

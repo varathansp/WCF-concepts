@@ -1,0 +1,8 @@
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\InstanceContextMode\PercallHost\bin\Debug\PercallHost.exe.config
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\InstanceContextMode\PercallHost\bin\Debug\PercallHost.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\InstanceContextMode\PercallHost\bin\Debug\PercallHost.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\InstanceContextMode\PercallHost\bin\Debug\SimpleService.dll
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\InstanceContextMode\PercallHost\bin\Debug\SimpleService.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\InstanceContextMode\PercallHost\obj\x86\Debug\PercallHost.csprojResolveAssemblyReference.cache
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\InstanceContextMode\PercallHost\obj\x86\Debug\PercallHost.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\InstanceContextMode\PercallHost\obj\x86\Debug\PercallHost.pdb

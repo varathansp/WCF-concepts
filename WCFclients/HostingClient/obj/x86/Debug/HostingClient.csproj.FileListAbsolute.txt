@@ -1,0 +1,8 @@
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFClients\HostingClient\bin\Debug\HostingClient.exe.config
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFClients\HostingClient\bin\Debug\HostingClient.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFClients\HostingClient\bin\Debug\HostingClient.pdb
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFClients\HostingClient\obj\x86\Debug\HostingClient.Form1.resources
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFClients\HostingClient\obj\x86\Debug\HostingClient.Properties.Resources.resources
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFClients\HostingClient\obj\x86\Debug\HostingClient.csproj.GenerateResource.Cache
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFClients\HostingClient\obj\x86\Debug\HostingClient.exe
+C:\Users\vsuyambu\Documents\Visual Studio 2010\Projects\JQuery\WCFClients\HostingClient\obj\x86\Debug\HostingClient.pdb
